@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartHealthcare.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b23c5f32282b35f8a93cca14f7578929fb095117")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37f3defef71627f23ccb84e4fba1c1cd99945cb2")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartHealthcare.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartHealthcare.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

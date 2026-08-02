@@ -27,8 +27,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "E:\\asp\\SmartHealthCare\\src\\SmartHealthcare.Domain\\SmartHealthcare.Domain.csproj": {
-                "projectPath": "E:\\asp\\SmartHealthCare\\src\\SmartHealthcare.Domain\\SmartHealthcare.Domain.csproj"
+              "E:\\asp\\SmartHealthcare\\src\\SmartHealthcare.Domain\\SmartHealthcare.Domain.csproj": {
+                "projectPath": "E:\\asp\\SmartHealthcare\\src\\SmartHealthcare.Domain\\SmartHealthcare.Domain.csproj"
               }
             }
           }
@@ -56,11 +56,11 @@
             },
             "FluentValidation": {
               "target": "Package",
-              "version": "[11.11.0, )"
+              "version": "[12.1.1, )"
             },
             "FluentValidation.DependencyInjectionExtensions": {
               "target": "Package",
-              "version": "[11.11.0, )"
+              "version": "[12.1.1, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -361,14 +361,14 @@
         }
       }
     },
-    "E:\\asp\\SmartHealthCare\\src\\SmartHealthcare.Domain\\SmartHealthcare.Domain.csproj": {
+    "E:\\asp\\SmartHealthcare\\src\\SmartHealthcare.Domain\\SmartHealthcare.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\asp\\SmartHealthCare\\src\\SmartHealthcare.Domain\\SmartHealthcare.Domain.csproj",
+        "projectUniqueName": "E:\\asp\\SmartHealthcare\\src\\SmartHealthcare.Domain\\SmartHealthcare.Domain.csproj",
         "projectName": "SmartHealthcare.Domain",
-        "projectPath": "E:\\asp\\SmartHealthCare\\src\\SmartHealthcare.Domain\\SmartHealthcare.Domain.csproj",
+        "projectPath": "E:\\asp\\SmartHealthcare\\src\\SmartHealthcare.Domain\\SmartHealthcare.Domain.csproj",
         "packagesPath": "C:\\Users\\emami\\.nuget\\packages\\",
-        "outputPath": "E:\\asp\\SmartHealthCare\\src\\SmartHealthcare.Domain\\obj\\",
+        "outputPath": "E:\\asp\\SmartHealthcare\\src\\SmartHealthcare.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\emami\\AppData\\Roaming\\NuGet\\NuGet.Config"
