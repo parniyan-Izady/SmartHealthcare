@@ -1,0 +1,16 @@
+E:\asp\SmartHealthcare\src\SmartHealthcare.Application\obj\Debug\net10.0\SmartHealthcare.Application.csproj.AssemblyReference.cache
+E:\asp\SmartHealthcare\src\SmartHealthcare.Application\obj\Debug\net10.0\SmartHealthcare.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\asp\SmartHealthcare\src\SmartHealthcare.Application\obj\Debug\net10.0\SmartHealthcare.Application.AssemblyInfoInputs.cache
+E:\asp\SmartHealthcare\src\SmartHealthcare.Application\obj\Debug\net10.0\SmartHealthcare.Application.AssemblyInfo.cs
+E:\asp\SmartHealthcare\src\SmartHealthcare.Application\obj\Debug\net10.0\SmartHealthcare.Application.csproj.CoreCompileInputs.cache
+E:\asp\SmartHealthcare\src\SmartHealthcare.Application\obj\Debug\net10.0\SmartHealthcare.Application.sourcelink.json
+E:\asp\SmartHealthcare\src\SmartHealthcare.Application\bin\Debug\net10.0\SmartHealthcare.Application.deps.json
+E:\asp\SmartHealthcare\src\SmartHealthcare.Application\bin\Debug\net10.0\SmartHealthcare.Application.dll
+E:\asp\SmartHealthcare\src\SmartHealthcare.Application\bin\Debug\net10.0\SmartHealthcare.Application.pdb
+E:\asp\SmartHealthcare\src\SmartHealthcare.Application\bin\Debug\net10.0\SmartHealthcare.Domain.dll
+E:\asp\SmartHealthcare\src\SmartHealthcare.Application\bin\Debug\net10.0\SmartHealthcare.Domain.pdb
+E:\asp\SmartHealthcare\src\SmartHealthcare.Application\obj\Debug\net10.0\SmartHea.E82D36B0.Up2Date
+E:\asp\SmartHealthcare\src\SmartHealthcare.Application\obj\Debug\net10.0\SmartHealthcare.Application.dll
+E:\asp\SmartHealthcare\src\SmartHealthcare.Application\obj\Debug\net10.0\refint\SmartHealthcare.Application.dll
+E:\asp\SmartHealthcare\src\SmartHealthcare.Application\obj\Debug\net10.0\SmartHealthcare.Application.pdb
+E:\asp\SmartHealthcare\src\SmartHealthcare.Application\obj\Debug\net10.0\ref\SmartHealthcare.Application.dll
